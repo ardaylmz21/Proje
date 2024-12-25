@@ -1,0 +1,92 @@
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\bin\Debug\PERSONEL TAKİP OTOMASyonu.exe.config
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\bin\Debug\PERSONEL TAKİP OTOMASyonu.exe
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\bin\Debug\PERSONEL TAKİP OTOMASyonu.pdb
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.AssemblyReference.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.Form1.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmDepartmanlar.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.Properties.Resources.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.GenerateResource.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.CoreCompileInputs.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.exe
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL TAKİP OTOMASyonu\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.pdb
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\PERSONEL TAKİP OTOMASyonu.exe.config
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\PERSONEL TAKİP OTOMASyonu.exe
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\PERSONEL TAKİP OTOMASyonu.pdb
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.AssemblyReference.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.Form1.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmDepartmanlar.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.Properties.Resources.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.GenerateResource.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.CoreCompileInputs.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.exe
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.pdb
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmPersonelEkle.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmPersonelListele.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmKullanici.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmSifremiUnuttum.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmYeniKullanici.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmYapilanZamlar.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmPrimEkle.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmPrimleriGoster.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmPersoneleGorePrimler.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmMesaiEkle.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmMesailer.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmPersonelMesaileri.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmizinturleri.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmizinHareketleri.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL TAKİP OTOMASyonu.csproj.ResolveComReference.cache
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\EnvDTE.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\stdole.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL.D7FE1CBA.Up2Date
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmizinHareketRaporu.resources
+C:\Users\arday\OneDrive\Masaüstü\PERSONEL\PERSONEL TAKİP OTOMASyonu\obj\Debug\PERSONEL_TAKİP_OTOMASyonu.frmMesaiHareketRaporu.resources
